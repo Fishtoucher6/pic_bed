@@ -1,2 +1,2 @@
 # pic_bed
-Picbed for https://touchfish.netlify.app
+Picbed for https://mytfhut.vercel.app
